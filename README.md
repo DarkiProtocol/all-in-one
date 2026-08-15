@@ -1,6 +1,6 @@
 # 🚀 DARK.PROTOCOL VPS MANAGER
 
-The ultimate VPS management tool for your subscribers!
+The ultimate VPS management tool!
 
 ## 📦 One-Command Installation
 
